@@ -37,24 +37,13 @@
     "uniqCompNum": 6,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
-    "cssOptimize": true,
+    "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "sitemapSwitcher": false,
     "siteUrl": "",
     "sitemapSwitcherAuto": true,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -67,9 +56,10 @@
       "icon": "@PROJECT_PATH@/assets/images/123-512x512.png",
       "themeColor": "#b2ccd2"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/123-128x195.png",
+    "favicon": "@PROJECT_PATH@/assets/images/123-128x195-1.png",
     "": "on",
-    "pwa-switcher": true
+    "pwa-switcher": true,
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
