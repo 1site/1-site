@@ -54,9 +54,9 @@
       "enabled": true,
       "name": "1site",
       "icon": "@PROJECT_PATH@/assets/images/123-512x512.png",
-      "themeColor": "#b2ccd2"
+      "themeColor": "#ff3366"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/123-128x195-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/123.png",
     "": "on",
     "pwa-switcher": true,
     "noImageResize": "true"
