@@ -2081,6 +2081,7 @@ section.lazy-placeholder:after {
   line-height: 1.5;
   color: #57468b;
   padding-top: 2rem;
+  text-align: left;
 }
 .cid-rHs46a0YS4 .card-img {
   padding-right: 2rem;
@@ -2133,6 +2134,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHs46a0YS4 .price {
   color: #57468b;
+  text-align: center;
 }
 .cid-rHs46a0YS4 .card-title B {
   color: #57468b;
