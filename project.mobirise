@@ -67,9 +67,9 @@
       "icon": "@PROJECT_PATH@/assets/images/1-site-basic-file-512x512.png",
       "themeColor": "#b2ccd2"
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/123-128x195.png",
     "": "on",
-    "pwa-switcher": true
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
