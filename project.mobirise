@@ -56,7 +56,7 @@
       "icon": "@PROJECT_PATH@/assets/images/-512x512.png",
       "themeColor": "#ff3366"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/123.png",
+    "favicon": "@PROJECT_PATH@/assets/images/-2.png",
     "": "on",
     "pwa-switcher": true,
     "noImageResize": "true"
