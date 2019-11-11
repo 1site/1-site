@@ -62,14 +62,14 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "1site",
-      "icon": "@PROJECT_PATH@/assets/images/1-site-basic-file-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/123-512x512.png",
       "themeColor": "#b2ccd2"
     },
     "favicon": "@PROJECT_PATH@/assets/images/123-128x195.png",
     "": "on",
-    "pwa-switcher": false
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
