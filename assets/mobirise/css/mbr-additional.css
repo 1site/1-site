@@ -38,10 +38,10 @@ body {
 }
 .display-7 {
   font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -1279,7 +1279,7 @@ section.lazy-placeholder:after {
   color: #716c80;
 }
 .cid-rleMsGxdOA {
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1281.jpg");
 }
 .cid-rleMsGxdOA H1 {
   text-align: center;
@@ -1309,7 +1309,7 @@ section.lazy-placeholder:after {
   margin: 0;
 }
 .cid-rx3DuVTvT8 .card-img .img1 {
-  background-color: #bfceff;
+  background-color: #ff3366;
 }
 .cid-rx3DuVTvT8 .cardcolor:hover {
   background-color: #ffffff;
@@ -1379,7 +1379,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHvFaQ2ZOr .mbr-iconfont {
   transition: all 0.3s;
-  color: #ffffff !important;
+  color: #cc2952 !important;
   font-size: 5rem !important;
 }
 .cid-rHvFaQ2ZOr .card {
@@ -1591,7 +1591,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHsfGCv3gB .mbr-iconfont {
   transition: all 0.3s;
-  color: #ffffff !important;
+  color: #ff3366 !important;
   font-size: 10rem !important;
 }
 .cid-rHsfGCv3gB .card {
@@ -2087,7 +2087,7 @@ section.lazy-placeholder:after {
 .cid-rHsciz2F0i {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #879a9f;
 }
 .cid-rHsciz2F0i .mbr-slider .carousel-control {
   background: #1b1b1b;
